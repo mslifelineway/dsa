@@ -1,0 +1,5 @@
+Missing number is (brute force): 5
+Missing number is (using hash method): 5
+Missing number is (usingNaturalNumber) : 5
+Missing number is (using xor) : 5
+Missing number is (using xor) : 5
